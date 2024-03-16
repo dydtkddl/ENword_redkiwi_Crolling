@@ -1,2 +1,6 @@
 ## 초기화면
-![Untitled]([https://prod-files-secure.s3.us-west-2.amazonaws.com/66bbe54d-310f-45ec-88a6-dd43795cf15a/14b01af4-4209-4346-93bb-7c14b8721392/Untitled.png](https://www.notion.so/pythonanywhere-67dfc3b56375411aa4c5831a01e6805d?pvs=4#9f417d73207247279eb9dee5623b7ae4)https://www.notion.so/pythonanywhere-67dfc3b56375411aa4c5831a01e6805d?pvs=4#9f417d73207247279eb9dee5623b7ae4)
+![Untitled4](https://github.com/dydtkddl/ENword_redkiwi_Crolling/assets/114085307/e35407b3-14b8-481a-a79a-b12c5061d1c4)
+![Untitled3](https://github.com/dydtkddl/ENword_redkiwi_Crolling/assets/114085307/d1d37001-6355-45a2-92c3-2417599e4199)
+![Untitled2](https://github.com/dydtkddl/ENword_redkiwi_Crolling/assets/114085307/0969b21b-afd1-4585-b11b-c9945fe8e660)
+![Untitled](https://github.com/dydtkddl/ENword_redkiwi_Crolling/assets/114085307/d61d135a-8b2f-4302-b14e-96fc1e964ce0)
+![Untitled5](https://github.com/dydtkddl/ENword_redkiwi_Crolling/assets/114085307/bb28ec2c-4bdd-437a-bc06-6141b60e4cd1)
